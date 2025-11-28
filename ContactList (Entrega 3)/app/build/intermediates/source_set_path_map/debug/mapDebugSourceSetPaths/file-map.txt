@@ -1,0 +1,36 @@
+com.example.contactlist.app-lifecycle-livedata-core-2.6.2-0 C:\Users\allan\.gradle\caches\8.13\transforms\0ca8657cfb5961e7cb7c5c0b9db8999a\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.contactlist.app-recyclerview-1.4.0-1 C:\Users\allan\.gradle\caches\8.13\transforms\0cf89b5d9f2b770b6deb7af752d7f9e6\transformed\recyclerview-1.4.0\res
+com.example.contactlist.app-lifecycle-process-2.6.2-2 C:\Users\allan\.gradle\caches\8.13\transforms\16a0728cc75987989319ba63d5b651e0\transformed\lifecycle-process-2.6.2\res
+com.example.contactlist.app-core-runtime-2.2.0-3 C:\Users\allan\.gradle\caches\8.13\transforms\20f51a8eaeeee2f349fc56d6f88247b9\transformed\core-runtime-2.2.0\res
+com.example.contactlist.app-core-1.13.0-4 C:\Users\allan\.gradle\caches\8.13\transforms\40c745d892d2dc107d0eb56ada290a72\transformed\core-1.13.0\res
+com.example.contactlist.app-appcompat-resources-1.6.1-5 C:\Users\allan\.gradle\caches\8.13\transforms\44315ceac472f18571417bf3e64289e0\transformed\appcompat-resources-1.6.1\res
+com.example.contactlist.app-cardview-1.0.0-6 C:\Users\allan\.gradle\caches\8.13\transforms\4d5a546d68f480d71cbc9db850730e05\transformed\cardview-1.0.0\res
+com.example.contactlist.app-lifecycle-livedata-2.6.2-7 C:\Users\allan\.gradle\caches\8.13\transforms\4dc8ceec309156ede0feaaf59e10f906\transformed\lifecycle-livedata-2.6.2\res
+com.example.contactlist.app-coordinatorlayout-1.1.0-8 C:\Users\allan\.gradle\caches\8.13\transforms\54f075d6cd0acbb5a8c039dc008bb992\transformed\coordinatorlayout-1.1.0\res
+com.example.contactlist.app-startup-runtime-1.1.1-9 C:\Users\allan\.gradle\caches\8.13\transforms\5bda7a46779fe469b126f698c58f7cd7\transformed\startup-runtime-1.1.1\res
+com.example.contactlist.app-emoji2-views-helper-1.2.0-10 C:\Users\allan\.gradle\caches\8.13\transforms\60704cb886e5b9855282cccd8075ddc8\transformed\emoji2-views-helper-1.2.0\res
+com.example.contactlist.app-appcompat-1.6.1-11 C:\Users\allan\.gradle\caches\8.13\transforms\6a8da14072dc910eb561bacd9355617f\transformed\appcompat-1.6.1\res
+com.example.contactlist.app-activity-1.8.1-12 C:\Users\allan\.gradle\caches\8.13\transforms\6e97924bef75f9a39bc06368afb7b129\transformed\activity-1.8.1\res
+com.example.contactlist.app-constraintlayout-2.1.4-13 C:\Users\allan\.gradle\caches\8.13\transforms\75fd087d22bccb482ba2436d4b97b85a\transformed\constraintlayout-2.1.4\res
+com.example.contactlist.app-emoji2-1.2.0-14 C:\Users\allan\.gradle\caches\8.13\transforms\866c40c2ba06e9c5f7a1574e05c313a0\transformed\emoji2-1.2.0\res
+com.example.contactlist.app-drawerlayout-1.1.1-15 C:\Users\allan\.gradle\caches\8.13\transforms\9083e4b2985657ebafa1c9c50a680ebf\transformed\drawerlayout-1.1.1\res
+com.example.contactlist.app-annotation-experimental-1.4.0-16 C:\Users\allan\.gradle\caches\8.13\transforms\991b58897beee17202aab95d18c93796\transformed\annotation-experimental-1.4.0\res
+com.example.contactlist.app-lifecycle-viewmodel-2.6.2-17 C:\Users\allan\.gradle\caches\8.13\transforms\9b9242be6949cc32a01e0ac0caf67bf0\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.contactlist.app-lifecycle-viewmodel-savedstate-2.6.2-18 C:\Users\allan\.gradle\caches\8.13\transforms\b5cc27faf7da95a85b7605780726bfd9\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.contactlist.app-profileinstaller-1.3.1-19 C:\Users\allan\.gradle\caches\8.13\transforms\c125029dee132d03ac9cc029dd301f08\transformed\profileinstaller-1.3.1\res
+com.example.contactlist.app-fragment-1.8.9-20 C:\Users\allan\.gradle\caches\8.13\transforms\c1df1c873ce3a55efbb7ad2776dbbabe\transformed\fragment-1.8.9\res
+com.example.contactlist.app-viewpager2-1.1.0-beta02-21 C:\Users\allan\.gradle\caches\8.13\transforms\c8c1d7cacbfb1f8e8a8a4daf4b77469e\transformed\viewpager2-1.1.0-beta02\res
+com.example.contactlist.app-material-1.10.0-22 C:\Users\allan\.gradle\caches\8.13\transforms\d2ba39769f25f0861a2ffca3dcefa290\transformed\material-1.10.0\res
+com.example.contactlist.app-lifecycle-runtime-2.6.2-23 C:\Users\allan\.gradle\caches\8.13\transforms\d53cc0477ee8bd83d3ec9038e408b359\transformed\lifecycle-runtime-2.6.2\res
+com.example.contactlist.app-transition-1.2.0-24 C:\Users\allan\.gradle\caches\8.13\transforms\d6986fa89070c45e6dbc8347760c495b\transformed\transition-1.2.0\res
+com.example.contactlist.app-core-ktx-1.13.0-25 C:\Users\allan\.gradle\caches\8.13\transforms\dc5d0e0f33a87b105643cd9c68894c9b\transformed\core-ktx-1.13.0\res
+com.example.contactlist.app-savedstate-1.2.1-26 C:\Users\allan\.gradle\caches\8.13\transforms\ddeabfaad9441d4f1eb69233a428764a\transformed\savedstate-1.2.1\res
+com.example.contactlist.app-customview-poolingcontainer-1.0.0-27 C:\Users\allan\.gradle\caches\8.13\transforms\ff26bc9c42c0c3833f50f73ecb28cee5\transformed\customview-poolingcontainer-1.0.0\res
+com.example.contactlist.app-pngs-28 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\generated\res\pngs\debug
+com.example.contactlist.app-resValues-29 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\generated\res\resValues\debug
+com.example.contactlist.app-updated_navigation_xml-30 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\generated\updated_navigation_xml\debug
+com.example.contactlist.app-packageDebugResources-31 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.contactlist.app-packageDebugResources-32 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.contactlist.app-debug-33 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.contactlist.app-debug-34 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\src\debug\res
+com.example.contactlist.app-main-35 C:\Users\allan\Downloads\webUnifagoc-main\ContactList(Entrega 3)\app\src\main\res

@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color light_blue
+color white
+drawable ic_adicionar_24
+drawable ic_editar_24
+drawable ic_excluir_24
+drawable ic_foto
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_add_contato
+id btn_cancelar_contato
+id btn_editar
+id btn_excluir
+id contato_foto
+id ed_email_contato
+id ed_nome_contato
+id ed_telefone_contato
+id edit_nome_contato
+id email_contato
+id fab_add_contato
+id nome_contato
+id rv_contact
+id telefone_contato
+id textView
+layout activity_form_contact
+layout activity_main
+layout item_contato
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ContactList
+style Theme.ContactList
+xml backup_rules
+xml data_extraction_rules

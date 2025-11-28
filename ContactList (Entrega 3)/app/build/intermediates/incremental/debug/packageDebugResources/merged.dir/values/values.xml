@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#87CEEB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ContactList</string>
+    <style name="Base.Theme.ContactList" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/light_blue</item>
+    </style>
+    <style name="Theme.ContactList" parent="Base.Theme.ContactList"/>
+</resources>

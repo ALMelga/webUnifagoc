@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/contato_foto"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_foto"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/nome_contato"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Fulano de Tal"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginStart="12dp"
+        app:layout_constraintStart_toEndOf="@id/contato_foto"
+        app:layout_constraintTop_toTopOf="@id/contato_foto"
+        app:layout_constraintEnd_toStartOf="@id/btn_editar" />
+
+    <TextView
+        android:id="@+id/telefone_contato"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="(32) 90000-0000"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="@id/nome_contato"
+        app:layout_constraintTop_toBottomOf="@id/nome_contato"
+        app:layout_constraintEnd_toStartOf="@id/btn_editar" />
+
+    <TextView
+        android:id="@+id/email_contato"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="email@gmail.com"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@id/nome_contato"
+        app:layout_constraintTop_toBottomOf="@id/telefone_contato"
+        app:layout_constraintEnd_toStartOf="@id/btn_editar" />
+
+    <ImageButton
+        android:id="@+id/btn_editar"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginEnd="8dp"
+        android:background="@android:color/holo_blue_dark"
+        android:padding="4dp"
+        android:src="@drawable/ic_editar_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/btn_excluir"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/btn_excluir"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginEnd="8dp"
+        android:background="@color/design_default_color_error"
+        android:backgroundTint="@color/design_default_color_error"
+        android:padding="4dp"
+        android:src="@drawable/ic_excluir_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
